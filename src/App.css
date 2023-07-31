@@ -12,6 +12,15 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+/* src/App.css */
+.character-item {
+  cursor: pointer; /* Apply hand cursor when hovering over character names */
+}
+
+.favorite-icon {
+  cursor: pointer; /* Apply hand cursor when hovering over the favorite icon (star) */
+}
+
 
 .App-header {
   background-color: #282c34;
